@@ -1,0 +1,1 @@
+const e={key:"v-0434ff12",path:"/get-started/Beats-Tour%C2%B2.html",title:"Firmware Selection (Beats Tour\xB2)",lang:"en-US",frontmatter:{title:"Firmware Selection (Beats Tour\xB2)",description:"Find out what jailbreaks you can use on your Beats Tour\xB2",sidebar:!1,editLink:!1,lastUpdated:!1,contributors:!1},excerpt:"",headers:[],filePathRelative:null,git:{}};export{e as data};

@@ -1,0 +1,1 @@
+const e={key:"v-03186c3a",path:"/get-started/Beats-Pro.html",title:"Firmware Selection (Beats Pro)",lang:"en-US",frontmatter:{title:"Firmware Selection (Beats Pro)",description:"Find out what jailbreaks you can use on your Beats Pro",sidebar:!1,editLink:!1,lastUpdated:!1,contributors:!1},excerpt:"",headers:[],filePathRelative:null,git:{}};export{e as data};

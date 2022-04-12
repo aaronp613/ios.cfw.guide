@@ -1,0 +1,1 @@
+const e={key:"v-10a89027",path:"/get-started/iBeats.html",title:"Firmware Selection (iBeats)",lang:"en-US",frontmatter:{title:"Firmware Selection (iBeats)",description:"Find out what jailbreaks you can use on your iBeats",sidebar:!1,editLink:!1,lastUpdated:!1,contributors:!1},excerpt:"",headers:[],filePathRelative:null,git:{}};export{e as data};

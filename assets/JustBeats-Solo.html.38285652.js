@@ -1,0 +1,1 @@
+const t={key:"v-597a5fa0",path:"/get-started/JustBeats-Solo.html",title:"Firmware Selection (JustBeats Solo)",lang:"en-US",frontmatter:{title:"Firmware Selection (JustBeats Solo)",description:"Find out what jailbreaks you can use on your JustBeats Solo",sidebar:!1,editLink:!1,lastUpdated:!1,contributors:!1},excerpt:"",headers:[],filePathRelative:null,git:{}};export{t as data};

@@ -1,0 +1,1 @@
+const e={key:"v-02fb577a",path:"/get-started/Powerbeats-Pro.html",title:"Firmware Selection (Powerbeats Pro)",lang:"en-US",frontmatter:{title:"Firmware Selection (Powerbeats Pro)",description:"Find out what jailbreaks you can use on your Powerbeats Pro",sidebar:!1,editLink:!1,lastUpdated:!1,contributors:!1},excerpt:"",headers:[],filePathRelative:null,git:{}};export{e as data};

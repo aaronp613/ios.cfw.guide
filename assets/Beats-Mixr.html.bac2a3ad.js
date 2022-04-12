@@ -1,0 +1,1 @@
+const e={key:"v-49282cd5",path:"/get-started/Beats-Mixr.html",title:"Firmware Selection (Beats Mixr)",lang:"en-US",frontmatter:{title:"Firmware Selection (Beats Mixr)",description:"Find out what jailbreaks you can use on your Beats Mixr",sidebar:!1,editLink:!1,lastUpdated:!1,contributors:!1},excerpt:"",headers:[],filePathRelative:null,git:{}};export{e as data};

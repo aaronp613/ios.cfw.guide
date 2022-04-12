@@ -1,0 +1,1 @@
+const e={key:"v-4aab2de7",path:"/get-started/Beats%CB%A3.html",title:"Firmware Selection (Beats\u02E3)",lang:"en-US",frontmatter:{title:"Firmware Selection (Beats\u02E3)",description:"Find out what jailbreaks you can use on your Beats\u02E3",sidebar:!1,editLink:!1,lastUpdated:!1,contributors:!1},excerpt:"",headers:[],filePathRelative:null,git:{}};export{e as data};

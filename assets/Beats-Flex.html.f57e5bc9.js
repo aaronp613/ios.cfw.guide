@@ -1,0 +1,1 @@
+const e={key:"v-dfd94f5c",path:"/get-started/Beats-Flex.html",title:"Firmware Selection (Beats Flex)",lang:"en-US",frontmatter:{title:"Firmware Selection (Beats Flex)",description:"Find out what jailbreaks you can use on your Beats Flex",sidebar:!1,editLink:!1,lastUpdated:!1,contributors:!1},excerpt:"",headers:[],filePathRelative:null,git:{}};export{e as data};

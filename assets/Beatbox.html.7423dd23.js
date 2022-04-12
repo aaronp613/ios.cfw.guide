@@ -1,0 +1,1 @@
+const e={key:"v-85a3eebc",path:"/get-started/Beatbox.html",title:"Firmware Selection (Beatbox)",lang:"en-US",frontmatter:{title:"Firmware Selection (Beatbox)",description:"Find out what jailbreaks you can use on your Beatbox",sidebar:!1,editLink:!1,lastUpdated:!1,contributors:!1},excerpt:"",headers:[],filePathRelative:null,git:{}};export{e as data};

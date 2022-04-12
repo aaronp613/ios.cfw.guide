@@ -1,0 +1,1 @@
+const e={key:"v-1f96fa6c",path:"/get-started/Beats-Solo-Pro.html",title:"Firmware Selection (Beats Solo Pro)",lang:"en-US",frontmatter:{title:"Firmware Selection (Beats Solo Pro)",description:"Find out what jailbreaks you can use on your Beats Solo Pro",sidebar:!1,editLink:!1,lastUpdated:!1,contributors:!1},excerpt:"",headers:[],filePathRelative:null,git:{}};export{e as data};

@@ -1,0 +1,1 @@
+const e={key:"v-4bf7ae35",path:"/get-started/urBeats%C2%B3.html",title:"Firmware Selection (urBeats\xB3)",lang:"en-US",frontmatter:{title:"Firmware Selection (urBeats\xB3)",description:"Find out what jailbreaks you can use on your urBeats\xB3",sidebar:!1,editLink:!1,lastUpdated:!1,contributors:!1},excerpt:"",headers:[],filePathRelative:null,git:{}};export{e as data};

@@ -1,0 +1,1 @@
+const t={key:"v-2dac2396",path:"/get-started/Beats-Fit-Pro.html",title:"Firmware Selection (Beats Fit Pro)",lang:"en-US",frontmatter:{title:"Firmware Selection (Beats Fit Pro)",description:"Find out what jailbreaks you can use on your Beats Fit Pro",sidebar:!1,editLink:!1,lastUpdated:!1,contributors:!1},excerpt:"",headers:[],filePathRelative:null,git:{}};export{t as data};

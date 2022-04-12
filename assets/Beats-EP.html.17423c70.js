@@ -1,0 +1,1 @@
+const e={key:"v-b3fdb900",path:"/get-started/Beats-EP.html",title:"Firmware Selection (Beats EP)",lang:"en-US",frontmatter:{title:"Firmware Selection (Beats EP)",description:"Find out what jailbreaks you can use on your Beats EP",sidebar:!1,editLink:!1,lastUpdated:!1,contributors:!1},excerpt:"",headers:[],filePathRelative:null,git:{}};export{e as data};
